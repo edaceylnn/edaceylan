@@ -27,14 +27,14 @@ const anaSayfa = function (req, res, next) {
 					'ad': 'Gratis',
 					'adres': 'Centrum Garden AVM',
 					'puan': 3,
-					'imkanlar': ['Bakım','Makyaj'],
+					'imkanlar': ['Bakım', 'Makyaj'],
 					'mesafe': '10km'
 				},
 				{
 					'ad': 'Penti',
 					'adres': 'Centrum Garden AVM',
 					'puan': 3,
-					'imkanlar': ['Çanta','Spor Giyim'],
+					'imkanlar': ['Çanta', 'Spor Giyim'],
 					'mesafe': '10km'
 				},
 				{
