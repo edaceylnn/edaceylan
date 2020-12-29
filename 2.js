@@ -1,0 +1,1 @@
+db.mekanlar.find().pretty()
